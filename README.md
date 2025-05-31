@@ -10,3 +10,5 @@
 # <--Do some practice Questions For coding skill development>
 
 # <--Practice with Searching Algorithms-->
+
+# <-- practice with Declare and calling functions-->
