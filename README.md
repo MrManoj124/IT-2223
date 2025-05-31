@@ -4,3 +4,5 @@
 # <--Using For loop and syntax-->
  
 # <--using String function for get deep Understanding about String>
+
+# <--Use Switch and do some exercises on it-->
