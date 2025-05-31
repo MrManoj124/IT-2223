@@ -1,0 +1,31 @@
+%for numbers
+x = input("Enter the number: ");
+z = input("Enter the number: ");
+disp(['You entered ',num2str(x),' , ',num2str(z)]);
+
+
+%for string
+y = input("Enter the string: ",'s');
+disp(['You entered ',y]);
+disp(" ")
+disp("Hi "+y+"!")
+
+
+
+
+x=10;
+disp(['The number is: ',num2str(x)])
+disp("Number is: "+x)
+fprintf('The number is: %d',x)
+disp(" ")
+y=sprintf('The number is: %d',x);
+disp(y)
+
+
+
+%print 1-10 using while loop.
+i=1;
+while i<11
+    disp(i)
+    i = i + 1;
+end
