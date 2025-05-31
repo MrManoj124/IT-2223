@@ -8,3 +8,5 @@
 # <--Use Switch and do some exercises on it-->
 
 # <--Do some practice Questions For coding skill development>
+
+# <--Practice with Searching Algorithms-->
